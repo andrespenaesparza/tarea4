@@ -3,3 +3,7 @@ agregar nuevos productos, vender unidades de los productos existentes, ver una l
 
 El programa principal utiliza esta clase para interactuar con el usuario a través de un menú. Los usuarios pueden elegir una opción para realizar estas acciones de gestión de inventario, 
 y el código se encarga de validar que las operaciones sean lógicas, por ejemplo, asegurando que no se vendan productos inexistentes o más unidades de las que hay en stock
+
+
+
+Andres Leonardo Peña Esparza 24150886
